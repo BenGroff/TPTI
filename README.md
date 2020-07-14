@@ -1,5 +1,6 @@
 # TPTI
 **Trucker's Paper Trail Inc.**
+
 https://www.truckerspapertrail.com/
 
 This was my first true freelance web development project. I would appreciate any feedback regarding my code, UX design, SEO techniques, content, and anything else you can think of. This was also my first time learning about and implementing SEO techniques into my website so I would appreciate additional comments regarding that. I would love to hear what you think and am looking forward to learning more and growing my skillset through future projects.
