@@ -14,8 +14,7 @@ In the future there is a goal to incorporate an ecommerce and profile / informat
 
 Software Used:
 * HTML
-  - Duh
-  - Some information was hardcoded and some was loaded dynamically using JavaScript.
+  - Standard and Dynamic incorporation. 
 
 * CSS
   - Custom CSS
@@ -26,7 +25,5 @@ Software Used:
   - Custom JS / jQuery
   - Basic Bootstrap JS / jQuery Files
   
-* PHP
-  - Simple Form - To Email function
-
-**** I'm hoping to create a mySQL database for a mailing list and integrate that into their SalesForce database in the future. Or find a direct way to link the website's forms to the SalesForce database.
+* Salesforce API - Web to Lead Incorporation
+  - Mailing list submissions go directly into salesforce database.
